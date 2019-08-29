@@ -1,7 +1,7 @@
 # Visamane
 <h1 align="center">
   <br>
-  <img src="./images/visamane_logo.png" height="200" width="400" style="border-radius: 10%;"/>
+  <img src="./images/vis logo.png" height="200" width="400" style="max-width:100%;border-radius: 5%;background-color: #bbb5b5;"/>
  
 
 
