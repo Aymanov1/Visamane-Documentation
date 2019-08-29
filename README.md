@@ -1,26 +1,24 @@
-# otome-backend
+# Visamane
 
 
 <h1 align="center">
   <br>
-  <img src="batch.png" height="200" width="200"/>
+  <img src="visamane_w.png" height="200" width="200"/>
   <br>
-  Otome(Batch server) Backend
+Visamane
   <br>
 
 
 <hr>
-<p>Otome(Batch server) is a  SpringBoot app to manage the autocrawlring and the auto injection processes of jobs from differents websites <strong>(Baitoru, Lacotto, JSEN)</strong>.</p>
+<p>Visamane is a  SpringBoot app to  <strong>.....</strong>.</p>
 
 <br><br>
 ## Tools
 
 <ul>
 <li> SpringBoot </li>
-<li> Crawler4j </li>
-<li> Jsh </li>
+<li> Angular 6 </li>
 <li> Spring_Security </li>
-<li> Reactor </li>
 <li> Swagger2 </li>
 <li> OpenCSV </li>
 <li> SuperCSV </li>
@@ -33,14 +31,26 @@
 <li>  <a href="https://spring.io/guides/gs/accessing-data-rest/">HATEOAS API</a></li>
 <li>  <a href="https://github.com/Aymanov1/telegram-community-backend/tree/master/src/main/resources">Spring profiles</a> </li>
 <li>  <a href="https://spring.io/projects/spring-security">Spring Security</a></li>
-<li>  <a href="https://cloud.google.com/natural-language/?hl=en">Cloud Language API</a></li>
 <li>  <a href="https://www.baeldung.com/opencsv">OpenCSV for parsing csv</a></li>
 <li>  <a href="https://www.journaldev.com/12021/supercsv-csvbeanreader-cellprocessor-csvbeanwriter">SuperCSV for  parsing csv</a></li>
-<li>  <a href="https://docs.spring.io/spring/docs/current/spring-framework-reference/web-reactive.html">FLUX for reactive programming</a></li>
 <li>  <a href="https://swagger.io/docs/">Swagger 2 for API documentation</a></li>
 <li> Database backups </li> 
 </ul>
 
+
+<br><br>
+## Versions
+<ul>
+<li>  <a href="https://github.com/Aymanov1/Visamane-Documentation/blob/master/version-1.0.md" target="_blank">Client side version 1.0</a></li>
+<li>  <a href="https://github.com/Aymanov1/Visamane-Documentation/blob/master/version-1.1.md" target="_blank">Client side version 1.1</a></li>
+<li>  <a href="https://github.com/Aymanov1/Visamane-Documentation/blob/master/version-1.2.md" target="_blank">Client side version 1.2</a></li>
+<li>  <a href="https://github.com/Aymanov1/Visamane-Documentation/blob/master/version-1.3.md" target="_blank">Client side version 1.3</a></li>
+<li>  <a href="https://github.com/Aymanov1/Visamane-Documentation/blob/master/version-1.4.md" target="_blank">Client side version 1.4</a></li>
+<li>  <a href="https://github.com/Aymanov1/Visamane-Documentation/blob/master/version-1.5.md" target="_blank">Client side version 1.5</a></li>
+
+</ul>
+
+<br><br>
 **Database Backup:**
 ```Java
 	@PreDestroy
