@@ -1,6 +1,10 @@
 # Visamane
 
-
+<style>
+img {
+  border-radius: 10%;
+}
+</style>
 <h1 align="center">
   <br>
   <img src="./images/visamane_logo.png" height="200" width="400" style="border-radius: 10%;"/>
