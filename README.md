@@ -14,11 +14,6 @@
 <ul>
 <li> SpringBoot </li>
 <li> Angular 6 </li>
-<li> QR Code </li>
-<li> Bcrypt Hashing </li>
-<li> Spring_Security </li>
-<li> Swagger2 </li>
-<li> OpenCSV </li>
 </ul>
 
 <br><br>
@@ -32,6 +27,10 @@
 <li>  <a href="https://www.baeldung.com/spring-security-registration-password-encoding-bcrypt">Bcrypt Hashing</a></li>
 <li>  <a href="https://github.com/techiediaries/ngx-qrcode">QR Code</a></li>
 <li>  <a href="https://swagger.io/docs/">Swagger 2 for API documentation</a></li>
+<li>  <a href="https://swagger.io/docs/">Jasper Report</a></li>
+<li>  <a href="https://swagger.io/docs/">ngx uploader</a></li>
+<li>  <a href="https://cloud.google.com/vision/docs/libraries#client-libraries-install-java">Google Vision API</a></li>
+<li>  <a href="http://tutorials.jenkov.com/java-cryptography/cipher.html">DES encryption</a></li>
 <li> Database backups </li> 
 </ul>
 
