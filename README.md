@@ -30,7 +30,7 @@
 <li>  <a href="https://spring.io/projects/spring-security">Spring Security</a></li>
 <li>  <a href="https://www.baeldung.com/opencsv">OpenCSV for parsing csv</a></li>
 <li>  <a href="https://www.baeldung.com/spring-security-registration-password-encoding-bcrypt">Bcrypt Hashing</a></li>
-<li>  <a href="https://github.com/techiediaries/ngx-qrcode">BQR Code</a></li>
+<li>  <a href="https://github.com/techiediaries/ngx-qrcode">QR Code</a></li>
 <li>  <a href="https://swagger.io/docs/">Swagger 2 for API documentation</a></li>
 <li> Database backups </li> 
 </ul>
