@@ -14,10 +14,11 @@
 <ul>
 <li> SpringBoot </li>
 <li> Angular 6 </li>
+<li> QR Code </li>
+<li> Bcrypt Hashing </li>
 <li> Spring_Security </li>
 <li> Swagger2 </li>
 <li> OpenCSV </li>
-<li> SuperCSV </li>
 </ul>
 
 <br><br>
@@ -28,7 +29,8 @@
 <li>  <a href="https://github.com/Aymanov1/telegram-community-backend/tree/master/src/main/resources">Spring profiles</a> </li>
 <li>  <a href="https://spring.io/projects/spring-security">Spring Security</a></li>
 <li>  <a href="https://www.baeldung.com/opencsv">OpenCSV for parsing csv</a></li>
-<li>  <a href="https://www.journaldev.com/12021/supercsv-csvbeanreader-cellprocessor-csvbeanwriter">SuperCSV for  parsing csv</a></li>
+<li>  <a href="https://www.baeldung.com/spring-security-registration-password-encoding-bcrypt">Bcrypt Hashing</a></li>
+<li>  <a href="https://github.com/techiediaries/ngx-qrcode">BQR Code</a></li>
 <li>  <a href="https://swagger.io/docs/">Swagger 2 for API documentation</a></li>
 <li> Database backups </li> 
 </ul>
