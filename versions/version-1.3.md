@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./images/vis logo.png" height="200" width="400"/>
+  <img src="../images/vis logo.png" height="200" width="400"/>
   <br>
 Visamane version 1.0
   <br>
@@ -10,4 +10,4 @@ Visamane version 1.0
 
 <br>
 <h1 align="center">
-  <img src="./images/Visamane - MT side_ Login Analysis.png" height="200" width="400"/>
+  <img src="../images/Visamane - MT side_ Login Analysis.png" height="200" width="400"/>
