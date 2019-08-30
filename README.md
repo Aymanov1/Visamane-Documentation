@@ -36,12 +36,12 @@
 <br><br>
 ## Versions
 <ul>
-<li>  <a href="./version-1.0.md" target="_blank">Client side version 1.0</a></li>
-<li>  <a href="./version-1.1.md" target="_blank">Client side version 1.1</a></li>
-<li>  <a href="./version-1.2.md" target="_blank">Client side version 1.2</a></li>
-<li>  <a href="./version-1.3.md" target="_blank">Client side version 1.3</a></li>
-<li>  <a href="./version-1.4.md" target="_blank">Client side version 1.4</a></li>
-<li>  <a href="./version-1.5.md" target="_blank">Client side version 1.5</a></li>
+<li>  <a href="./versions/version-1.0.md" target="_blank">Client side version 1.0</a></li>
+<li>  <a href="./versions/version-1.1.md" target="_blank">Client side version 1.1</a></li>
+<li>  <a href="./versions/version-1.2.md" target="_blank">Client side version 1.2</a></li>
+<li>  <a href="./versions/version-1.3.md" target="_blank">Client side version 1.3</a></li>
+<li>  <a href="./versions/version-1.4.md" target="_blank">Client side version 1.4</a></li>
+<li>  <a href="./versions/version-1.5.md" target="_blank">Client side version 1.5</a></li>
 
 </ul>
 
