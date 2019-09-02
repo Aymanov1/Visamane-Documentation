@@ -28,7 +28,7 @@
 <li>  <a href="https://github.com/techiediaries/ngx-qrcode">QR Code</a></li>
 <li>  <a href="https://swagger.io/docs/">Swagger 2 for API documentation</a></li>
 <li>  <a href="https://swagger.io/docs/">Jasper Report</a></li>
-<li>  <a href="https://swagger.io/docs/">ngx uploader</a></li>
+<li>  <a href="https://www.npmjs.com/package/ngx-uploader">ngx uploader</a></li>
 <li>  <a href="https://cloud.google.com/vision/docs/libraries#client-libraries-install-java">Google Vision API</a></li>
 <li>  <a href="http://tutorials.jenkov.com/java-cryptography/cipher.html">DES encryption</a></li>
 <li> Database backups </li> 
